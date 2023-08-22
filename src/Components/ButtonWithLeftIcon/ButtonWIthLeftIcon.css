@@ -1,0 +1,12 @@
+.content .left .button {
+  padding: 16px 32px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+  font-weight: 700;
+  font-size: 16px;
+  color: #fff;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}

@@ -1,0 +1,18 @@
+.pagination {
+  display: flex;
+}
+.pagination-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  margin: auto;
+  color: #64748b;
+}
+.arrow {
+  cursor: pointer;
+}
+.pagination-result {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+}
